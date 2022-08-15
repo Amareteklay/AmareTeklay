@@ -37,10 +37,40 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/GitHub%20-%23181717.svg?&style=for-the-badge&logo=GitHub&logoColor=FFFFFF)
 ![VSCode](https://img.shields.io/badge/VSCode%20-%232B2B30.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=007ACC)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20-%23336791.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF)
-![Amazon AWS](https://aws.amazon.com/)
 
 
 <h2 align="center"> Code Institute Portfolio Projects </h2>
+
+### Housing price predictor.
+
+
+[Click here to view the repository.](https://github.com/Amareteklay/heritage-housing-issues)
+
+### Quteba
+
+[Click here to view the live project.](https://quteba.herokuapp.com/)
+
+[Click here to view the repository.](https://github.com/Amareteklay/quteba)
+
+### SDG-Quiz
+
+    
+[Click here to view the live project.](https://sdg-quiz.herokuapp.com/)
+
+[Click here to view the repository.](https://github.com/Amareteklay/sdg-quiz)
+
+### Rock paper scissors spock lizard
+
+    
+[Click here to view the live project.](https://amareteklay.github.io/Portfolio-Project-2/index.html)
+
+[Click here to view the repository.](https://github.com/Amareteklay/Portfolio-Project-2)
+
+### Jungway
+
+    
+
+[Click here to view the repository.](https://github.com/Amareteklay/jungway)
 
 
 <h2 align="center"> Hackathon </h2>
