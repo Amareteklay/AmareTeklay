@@ -48,14 +48,9 @@ Here are some ideas to get you started:
 
 ### Quteba
 
-[Click here to view the live project.](https://quteba.herokuapp.com/)
-
 [Click here to view the repository.](https://github.com/Amareteklay/quteba)
 
 ### SDG-Quiz
-
-    
-[Click here to view the live project.](https://sdg-quiz.herokuapp.com/)
 
 [Click here to view the repository.](https://github.com/Amareteklay/sdg-quiz)
 
